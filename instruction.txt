@@ -19,6 +19,8 @@
 
 * Запускаем терминал.
 
+* Создаём ветку vvlee - git branch vvlee. Далее работаем только в этой ветке.
+
 * Добавляем любой файл - git touch instruction.txt - в папку 3742_Progammer
 
 * Заполняем файл instruction.txt
