@@ -15,4 +15,7 @@
 
 * Добавляем любой файл - git touch instruction.txt - в папку 3742_Progammer
 
-* Заполняем файл instruction.txt 
+* Заполняем файл instruction.txt
+
+#### 3. Перенос изменений на GitHub ####
+
